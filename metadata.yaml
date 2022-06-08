@@ -1,0 +1,39 @@
+_repo: The-passing-of-the-great-race-or-The-racial-basis-of-European-history_68185
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Osborn, Henry Fairfield
+    alias: Osborn, Henry F. (Henry Fairfield)
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '31561'
+    url: http://www.gutenberg.org/2009/agents/31561
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+creator:
+  author:
+    agent_name: Grant, Madison
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '44795'
+    url: http://www.gutenberg.org/2009/agents/44795
+    wikipedia: https://en.wikipedia.org/wiki/Madison_Grant
+description: ''
+gutenberg_issued: '2022-05-27'
+identifiers:
+  gutenberg: '68185'
+language: en
+pgterms:marc904: https://archive.org/details/passingofgreatra1923gran
+pgterms:marc905: 20180724214245grant
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Charles Scribner's Sons,1916,copyright 1918,copyright
+  1921,copyright 1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The passing of the great race,: or, The racial basis of European history'
+url: http://www.gutenberg.org/ebooks/68185
