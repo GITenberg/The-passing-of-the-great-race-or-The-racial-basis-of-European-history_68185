@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31561'
     url: http://www.gutenberg.org/2009/agents/31561
     wikipedia: https://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+covers:
+- cover_type: archival
+  image_path: 68185-h/images/cover.jpg
 creator:
   author:
     agent_name: Grant, Madison
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44795
     wikipedia: https://en.wikipedia.org/wiki/Madison_Grant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68185#The-passing-of-the-great-race-or-The-racial-basis-of-European-history
 gutenberg_issued: '2022-05-27'
 identifiers:
   gutenberg: '68185'
